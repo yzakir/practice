@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Portfolio</title>
+</head>
+<body>
+<img src= "C:\Users\Zakir\Desktop\IMG-20200526-WA0006.jpg" height=200 length=200 align="right" border=5>
+<font size =4>
+08/01/2021
+</font>
+<h2><u>Y.Zakir Fakruddin</u></h2>
+<i>zakiryadiki@gmail.com</i><br>
+<i>F-11, Mahanadi EXT., IGNOU Campus, Maidan Garhi, South Delhi, Delhi-110068</i><br>
+</body>
+</html>
